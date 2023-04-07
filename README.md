@@ -22,5 +22,5 @@ Install
 
 Usage
 ---
-
+new line
 `npm start`
